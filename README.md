@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Dmytro Turin profile views](https://u8views.com/api/v1/github/profiles/1083827/views/day-week-month-total-count.svg)](https://u8views.com/github/Maxwe11)
 
 <!--
 **Maxwe11/Maxwe11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
